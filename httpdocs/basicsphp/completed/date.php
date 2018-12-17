@@ -8,8 +8,9 @@
 </head>
 <body>
 <?php
+echo "DATE";
 echo "today is " .date("Y/m/d") ."<br>";
-echo "time is " .date("h:i:sa");
+echo " time : " .date("h:i:sa");
 ?>
     
 </body>

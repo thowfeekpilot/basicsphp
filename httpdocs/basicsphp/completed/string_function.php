@@ -6,8 +6,8 @@
 </head>
 <body>
 	<?php
-	echo "internal functions"."<br>";
-	echo "hi pilot"."<br>";
+	echo "internal_functions"."<br>";
+	echo "hi, pilot"."<br>";
 	echo strlen ("hi pilot")."<br>";
 	echo str_word_count("hi pilot")."<br>";
 	echo strrev("hi pilot")."<br>";

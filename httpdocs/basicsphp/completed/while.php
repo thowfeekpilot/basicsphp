@@ -8,11 +8,12 @@
 </head>
 <body>
 <?php
+echo "while_loop";
 
-$i=1;
-while ($i<=10)
+$i=0;
+while ($i<=20)
 {
-    echo   $i*12 ."<br>";
+    echo   $i*20 ."<br>";
     $i++;
 }
 

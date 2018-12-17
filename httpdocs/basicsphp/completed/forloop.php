@@ -9,8 +9,8 @@
 <body>
 <?php
  
- for($i=0; $i<=10; $i++){
-    echo   $i*6 ."<br>";
+ for($i=0; $i<=20; $i++){
+    echo   $i*8 ."<br>";
 }
 ?>
     

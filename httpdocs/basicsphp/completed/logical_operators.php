@@ -10,10 +10,10 @@
 <?php
     echo "Logical operators" ."<br>";
 $ta=37;
-$en=57;
-$ma=78;
+$en=77;
+$ma=45;
 $sc=67;
-$ss=47;
+$ss=89;
     echo "Total " .($ta+$en+$ma+$sc+$ss) ."<br>";
     echo "Average " .($ta+$en+$ma+$sc+$ss)/5 ."<br>";
 if ($ta>=35 && $en>=35 && $ma>=35 && $sc>=35 && $ss>=35){

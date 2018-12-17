@@ -9,7 +9,7 @@
 <body>
 <?php
     echo "switch case" . "<br>";
-$num = 6;
+$num = 3;
 switch ($num)
 {
     case 1:
