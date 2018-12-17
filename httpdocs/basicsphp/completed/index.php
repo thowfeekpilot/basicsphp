@@ -17,6 +17,8 @@
     <h1>17/12/2018 math_function (power,square root,floor,maximum,minimum,random numbers,)</h1>
     <h1>17/12/2018 string_function(stringlength,string wordcount,stringreverse,stringreplace,stringposition,)</h1>
     <h1>17/12/2018 switch_case</h1>
+    <h1>17/12/2018 function</h1>
+    <h1>17/12/2018 list_array</h1>"
 ?>    
     
 </body>
