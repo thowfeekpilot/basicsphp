@@ -9,7 +9,7 @@
 <body>
     <?php
         $sum = array(64,87,85,98,43,76);
-        echo sum($sum);
+        echo array_sum($sum);
     ?>
     
 </body>
