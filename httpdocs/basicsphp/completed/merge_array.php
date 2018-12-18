@@ -4,15 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>dowhile</title>
+    <title>merge</title>
 </head>
 <body>
     <?php
-    $i=0;
-    do {
-        echo   $i*20 ."<br>";
-        $i++;
-    }while ($i<=10);
+    $name=array("abdul","khan","rahim");
+    $age=array(23,26,21);
+    print_r(array_merge($name,$age));
     ?>
+    
 </body>
 </html>
