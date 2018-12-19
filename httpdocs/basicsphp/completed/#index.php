@@ -32,7 +32,10 @@
     <button><h1><a href="checkdate.php"> checkdate</a></h1></button><br>
     <button><h1><a href="merge_array.php"> merge_array</a></h1></button><br>
     <button><h1><a href="searcharray.php"> searcharray</a></h1></button><br>
-    
+    <h1>19/12/2018</h1>
+    <button><h1><a href="sort.php"> sort</a></h1></button><br>
+    <button><h1><a href="rsort.php"> rsort</a></h1></button><br>
+    <button><h1><a href="intersect_array.php"> intersect_array</a></h1></button>
 
 </div>
    
